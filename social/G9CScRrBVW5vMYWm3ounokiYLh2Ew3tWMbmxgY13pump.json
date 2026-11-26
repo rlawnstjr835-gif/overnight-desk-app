@@ -1,0 +1,19 @@
+{
+ "mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+ "symbol": "TOGI",
+ "u15": 30,
+ "u60": 31,
+ "big": [
+  "LookForEntries",
+  "BrotherMKT",
+  "widfiretoad",
+  "whalewatchalert"
+ ],
+ "big_note": "caller exclusion not verified",
+ "shill": 0,
+ "ring_accounts": [],
+ "catalyst": null,
+ "catalyst_reason": "no news or big-account post found naming the coin",
+ "coinX": null,
+ "coinX_reason": "webhook coinX is null"
+}
