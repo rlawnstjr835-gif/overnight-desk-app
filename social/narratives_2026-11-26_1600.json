@@ -1,0 +1,40 @@
+{
+ "stories": [
+  {
+   "name": "Fidelity adds Aave, Chainlink, Uniswap to Fidelity Crypto",
+   "keywords": [
+    "Fidelity",
+    "Aave",
+    "Chainlink",
+    "Uniswap",
+    "DeFi"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2125690221186703488"
+  },
+  {
+   "name": "XRP Ledger Single Asset Vaults nearing activation / Ripple news",
+   "keywords": [
+    "XRP",
+    "Ripple",
+    "XRPL",
+    "Single Asset Vaults",
+    "DHS"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2125727939174264940"
+  },
+  {
+   "name": "UK regulator plans stricter DeFi rules after $6.3B Binance hack",
+   "keywords": [
+    "UK",
+    "FCA",
+    "DeFi",
+    "Binance",
+    "hack"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2125837109743464924"
+  }
+ ]
+}
