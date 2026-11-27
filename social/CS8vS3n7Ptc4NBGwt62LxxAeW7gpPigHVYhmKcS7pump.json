@@ -1,0 +1,18 @@
+{
+ "mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+ "symbol": "CUMASS",
+ "u15": 23,
+ "u60": 23,
+ "u60_note": "search capped at 25 results/query; may undercount",
+ "big": 1,
+ "big_accounts": [
+  "bitecong"
+ ],
+ "big_note": "caller accounts (5+ other mints/hr) not checked",
+ "shill": 0,
+ "ring_accounts": [],
+ "catalyst": null,
+ "catalyst_reason": "no news item or big-account post naming the coin found",
+ "coinX": null,
+ "coinX_reason": "coinX null in payload"
+}
