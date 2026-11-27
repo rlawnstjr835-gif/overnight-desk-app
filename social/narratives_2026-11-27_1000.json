@@ -1,0 +1,40 @@
+{
+ "stories": [
+  {
+   "name": "Spain lets Sepblac freeze crypto accounts without court order",
+   "keywords": [
+    "Spain",
+    "Sepblac",
+    "AML",
+    "account freeze",
+    "regulation"
+   ],
+   "event_time": "2027-01-25",
+   "source": "https://x.com/i/trending/2125986942328172809"
+  },
+  {
+   "name": "Primus Labs confidential finance on BNB Chain",
+   "keywords": [
+    "Primus Labs",
+    "BNB Chain",
+    "confidential finance",
+    "privacy",
+    "institutions"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2126199609030828093"
+  },
+  {
+   "name": "SPX6900 memecoin daily buyer commitment",
+   "keywords": [
+    "SPX6900",
+    "memecoin",
+    "SPX",
+    "daily buy",
+    "community"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2125975001497006558"
+  }
+ ]
+}
