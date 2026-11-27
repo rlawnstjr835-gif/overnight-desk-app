@@ -1,0 +1,40 @@
+{
+ "stories": [
+  {
+   "name": "Crypto Debate: Gambling Apps or Real Innovation?",
+   "keywords": [
+    "gambling",
+    "perps",
+    "prediction markets",
+    "Stake",
+    "memecoin"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2125945443603689713"
+  },
+  {
+   "name": "Spain Empowers Financial Unit to Freeze Crypto Accounts in Crime Probes",
+   "keywords": [
+    "Spain",
+    "Sepblac",
+    "AML",
+    "freeze",
+    "regulation"
+   ],
+   "event_time": "2027-01-25 (effective date)",
+   "source": "https://x.com/i/trending/2125986942328172809"
+  },
+  {
+   "name": "Primus Labs Launches Confidential Finance on BNB Chain",
+   "keywords": [
+    "Primus Labs",
+    "BNB Chain",
+    "privacy",
+    "FHE",
+    "confidential"
+   ],
+   "event_time": null,
+   "source": "https://x.com/i/trending/2126199609030828093"
+  }
+ ]
+}
