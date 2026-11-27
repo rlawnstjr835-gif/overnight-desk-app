@@ -1,0 +1,23 @@
+{
+ "mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+ "symbol": "VOLALITY",
+ "u15": 3,
+ "u60": 4,
+ "big": [],
+ "big_count": 0,
+ "shill": 0,
+ "ring_accounts": [],
+ "callers_checked": null,
+ "callers_reason": "caller history not checked within 120s",
+ "catalyst": null,
+ "coinX": {
+  "handle": "volality",
+  "age_days": 7,
+  "followers": 5,
+  "posts_7d": 7,
+  "posts_7d_note": "total tweet_count=7, account 7 days old",
+  "replies_last10": null,
+  "replies_reason": "not read"
+ },
+ "generated_at": "2026-11-27T04:43:25.781Z"
+}
