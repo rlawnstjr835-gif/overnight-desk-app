@@ -1,0 +1,17 @@
+{
+ "mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+ "symbol": "DragonRiders",
+ "u15": 17,
+ "u60": 17,
+ "big": 1,
+ "big_accounts": [
+  "LOKITRENCH"
+ ],
+ "shill": 0,
+ "ring_accounts": [],
+ "catalyst": null,
+ "catalyst_reason": "none found in searched posts",
+ "coinX": null,
+ "coinX_reason": "coinX null in payload",
+ "note": "search capped at 25 results per query; counts may be lower bounds"
+}
