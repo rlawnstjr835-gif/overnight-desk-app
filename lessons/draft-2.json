@@ -1,0 +1,6 @@
+{
+  "tag": "draft-2",
+  "action": "activate",
+  "check": "bundled >= 3",
+  "what_happened": "This 10.7-minute-old GREEN coin had 3 bundled wallets and was already up 36% in its first hour, then hit the stop for a $2.05 loss. Block entries with 3 or more bundled wallets."
+}
