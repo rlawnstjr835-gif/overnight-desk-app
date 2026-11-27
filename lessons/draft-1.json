@@ -1,0 +1,1 @@
+{"tag":"draft-1","action":"activate","check":"curve_min < 6","what_happened":"This ~11-minute-old coin left the bonding curve in just 2.1 minutes with 4 bundled wallets, barely cleared the score floor at 72, then hit the stop for a $2.55 loss. Block entries that graduate the curve in under 6 minutes."}
