@@ -1,0 +1,17 @@
+{
+ "mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+ "symbol": "Zero",
+ "generated_utc": "2026-11-27T02:33:03.368Z",
+ "u15": 0,
+ "u60": 1,
+ "big": [],
+ "big_count": 0,
+ "shill": 0,
+ "ring_accounts": [],
+ "shill_note": "no repeated-text ring among mint-matching posts; caller check not performed",
+ "catalyst": null,
+ "catalyst_reason": "no news/big-account post naming this coin found",
+ "coinX": null,
+ "coinX_reason": "coinX is null in payload",
+ "note": "counts from posts containing the mint address only; $Zero/name queries too noisy"
+}
