@@ -1,0 +1,2519 @@
+{
+"date": "2026-11-28",
+"since": 1795734000.0,
+"until": 1795820400.0,
+"mode": "PAPER",
+"cash": 102.372349,
+"n_orders": 7,
+"n_open": 0,
+"report": {
+"dust": [],
+"kills": {
+"FOMO warns: {'type': 'INSIDER_HOLDINGS', 'severity': 'SEVERE', 'priority': 2, 'name': 'Large holdings from insiders', 'description': \"A significant portion of this token's supply is held by bundlers, fresh traders, or snipers, which may indicate insider manipulation.\"}": 5,
+"+278% in 1h": 1,
+"liq $9.8K": 1,
+"DexScreener doesn't know": 104,
+"liq $10.0K": 1,
+"liq $7.0K": 1,
+"liq $0.2K": 1,
+"liq $0.1K": 2,
+"+326% in 1h": 1,
+"liq $0.0K": 1,
+"+312% in 1h": 1,
+"+227% in 1h": 1,
+"FOMO warns: {'type': 'LOW_LIQUIDITY', 'severity': 'MODERATE', 'priority': 2, 'name': 'Low liquidity', 'description': 'You may get far less than expected when trading this token.'}": 2,
+"liq $7.9K": 1,
+"liq $3.2K": 1,
+"+817% in 1h": 1,
+"FOMO warns: {'type': 'LOW_VOLUME', 'severity': 'MODERATE', 'priority': 4, 'name': 'Low volume', 'description': 'Token has low volume over the last 24 hours. Trade with caution.'}": 1,
+"+876% in 1h": 1,
+"+24611% in 1h": 1,
+"top 10 hold 40%": 3,
+"+6230% in 1h": 1,
+"top 10 hold 47%": 1,
+"top 10 hold 27%": 2,
+"top 10 hold 26%": 3,
+"+24322% in 1h": 1,
+"+665% in 1h": 1,
+"copycat of Santaball": 1,
+"+333% in 1h": 1,
+"top 10 hold 33%": 2,
+"liq under floor ($1.5K)": 9,
+"liq under floor ($1.4K)": 18,
+"liq under floor ($2.1K)": 4,
+"liq under floor ($0.0K)": 81,
+"+904% in 1h": 1,
+"top 10 hold 52%": 1,
+"+723% in 1h": 1,
+"top 10 hold 30%": 3,
+"liq under floor ($2.8K)": 3,
+"liq under floor ($2.3K)": 1,
+"liq under floor ($2.5K)": 2,
+"liq under floor ($2.0K)": 5,
+"liq under floor ($1.9K)": 4,
+"top 10 hold 46%": 6,
+"+1172% in 1h": 1,
+"top 10 hold 31%": 2,
+"liq under floor ($1.6K)": 7,
+"liq under floor ($1.8K)": 7,
+"+341% in 1h": 2,
+"liq under floor ($2.4K)": 2,
+"+541% in 1h": 1,
+"+378% in 1h": 1,
+"top 10 hold 44%": 2,
+"+98272% in 1h": 1,
+"liq under floor ($2.2K)": 2,
+"+673% in 1h": 1,
+"top 10 hold 36%": 3,
+"top 10 hold 49%": 2,
+"+28011% in 1h": 1,
+"liq under floor ($0.3K)": 1,
+"liq under floor ($4.3K)": 1,
+"liq under floor ($0.6K)": 1,
+"liq under floor ($0.7K)": 1,
+"liq under floor ($0.2K)": 2,
+"liq under floor ($1.0K)": 1,
+"+810% in 1h": 1,
+"top 10 hold 34%": 1,
+"liq under floor ($0.1K)": 3,
+"holders leaving -16% in 10m": 1,
+"top 10 hold 25%": 1,
+"liq under floor ($5.0K)": 1,
+"top 10 hold 41%": 2,
+"+1106887% in 1h": 1,
+"+6614180% in 1h": 1,
+"+223795% in 1h": 1,
+"top 10 hold 45%": 1,
+"+11663395% in 1h": 1,
+"top 10 hold 37%": 1,
+"top 10 hold 39%": 2,
+"top 10 hold 42%": 1,
+"+399825% in 1h": 1,
+"holders leaving -0% in 10m": 1,
+"+45778% in 1h": 1,
+"top 10 hold 32%": 1,
+"+1354% in 1h": 1,
+"+414548% in 1h": 1,
+"liq under floor ($2.7K)": 2,
+"top 10 hold 80%": 1,
+"liq under floor ($6.8K)": 1,
+"+2277% in 1h": 1,
+"+356% in 1h": 1,
+"top 10 hold 73%": 1,
+"top 10 hold 95%": 1,
+"+15157% in 1h": 1,
+"top 10 hold 43%": 1,
+"+311% in 1h": 1,
+"top 10 hold 29%": 2,
+"+391% in 1h": 1
+},
+"scanner_passes": [
+"Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump"
+],
+"layers": {
+"1 Mint authority": {
+"green": 37,
+"red": 0,
+"not checked": 0
+},
+"2 Freeze authority": {
+"green": 37,
+"red": 0,
+"not checked": 0
+},
+"3 Dev wallet": {
+"green": 34,
+"red": 3,
+"not checked": 0
+},
+"4 Top 10": {
+"green": 33,
+"red": 1,
+"not checked": 3
+},
+"5 Liquidity": {
+"green": 29,
+"red": 4,
+"not checked": 4
+},
+"6 Pool age": {
+"green": 29,
+"red": 0,
+"not checked": 8
+},
+"7 Bundles": {
+"green": 10,
+"red": 19,
+"not checked": 8
+},
+"8 Delegations": {
+"green": 10,
+"red": 0,
+"not checked": 27
+}
+},
+"audits": [
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 4,
+"value_text": "11.3%",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 6,
+"value_text": "10m",
+"pass": 1
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 7,
+"value_text": "7 bundled wallets",
+"pass": 0
+},
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 4,
+"value_text": "7.8%",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 7,
+"value_text": "0 bundled",
+"pass": 1
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 4,
+"value_text": "7.8%",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 7,
+"value_text": "8 bundled wallets",
+"pass": 0
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 4,
+"value_text": "10.2%",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 7,
+"value_text": "10 bundled wallets",
+"pass": 0
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 4,
+"value_text": "10.2%",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 7,
+"value_text": "8 bundled wallets",
+"pass": 0
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 4,
+"value_text": "24.7%",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 7,
+"value_text": "4 bundled",
+"pass": 1
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 4,
+"value_text": "1.8%",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 7,
+"value_text": "11 bundled wallets",
+"pass": 0
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 4,
+"value_text": "9.1%",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 7,
+"value_text": "22 bundled wallets",
+"pass": 0
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 4,
+"value_text": "2.7%",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 7,
+"value_text": "20 bundled wallets",
+"pass": 0
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 4,
+"value_text": "8.2%",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 7,
+"value_text": "10 bundled wallets",
+"pass": 0
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 4,
+"value_text": "19.9%",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 6,
+"value_text": "14m",
+"pass": 1
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 7,
+"value_text": "5 bundled wallets",
+"pass": 0
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 4,
+"value_text": "10.5%",
+"pass": 1
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 5,
+"value_text": "liquidity down 61%",
+"pass": 0
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 4,
+"value_text": "11.8%",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 6,
+"value_text": "12m",
+"pass": 1
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 7,
+"value_text": "12 bundled wallets",
+"pass": 0
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 4,
+"value_text": "19.1%",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 6,
+"value_text": "14m",
+"pass": 1
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 7,
+"value_text": "10 bundled wallets",
+"pass": 0
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 4,
+"value_text": "20.3%",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 7,
+"value_text": "3 bundled",
+"pass": 1
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 4,
+"value_text": "18.0%",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 6,
+"value_text": "16m",
+"pass": 1
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 7,
+"value_text": "11 bundled wallets",
+"pass": 0
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 4,
+"value_text": "18.1%",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 6,
+"value_text": "15m",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 7,
+"value_text": "1 bundled",
+"pass": 1
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 4,
+"value_text": "0.3%",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 6,
+"value_text": "15m",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 7,
+"value_text": "0 bundled",
+"pass": 1
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 4,
+"value_text": "22.1%",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 6,
+"value_text": "12157m",
+"pass": 1
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 7,
+"value_text": "18 bundled wallets",
+"pass": 0
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 4,
+"value_text": "20.9%",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 6,
+"value_text": "12m",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 7,
+"value_text": "3 bundled",
+"pass": 1
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 4,
+"value_text": "18.0%",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 7,
+"value_text": "10 bundled wallets",
+"pass": 0
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 3,
+"value_text": "dev sold",
+"pass": 0
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 4,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 5,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 4,
+"value_text": "21.3%",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 6,
+"value_text": "13m",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 7,
+"value_text": "0 bundled",
+"pass": 1
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 4,
+"value_text": "22.7%",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 6,
+"value_text": "19m",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 7,
+"value_text": "0 bundled",
+"pass": 1
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 4,
+"value_text": "5.9%",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 6,
+"value_text": "12m",
+"pass": 1
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 7,
+"value_text": "insiders hold 22%",
+"pass": 0
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 3,
+"value_text": "dev rugged 1 before",
+"pass": 0
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 4,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 5,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 4,
+"value_text": "6.1%",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 6,
+"value_text": "18m",
+"pass": 1
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 7,
+"value_text": "insiders hold 21%",
+"pass": 0
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 4,
+"value_text": "11.6%",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 7,
+"value_text": "insiders hold 21%",
+"pass": 0
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 4,
+"value_text": "3.2%",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 6,
+"value_text": "11m",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 7,
+"value_text": "1 bundled",
+"pass": 1
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 4,
+"value_text": "0.2%",
+"pass": 1
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 5,
+"value_text": "liquidity down 87%",
+"pass": 0
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 4,
+"value_text": "11.2%",
+"pass": 1
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 5,
+"value_text": "liquidity down 67%",
+"pass": 0
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 4,
+"value_text": "top 10 hold 25%",
+"pass": 0
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 5,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 4,
+"value_text": "0.1%",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 6,
+"value_text": "17m",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 7,
+"value_text": "0 bundled",
+"pass": 1
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"layer": 8,
+"value_text": "None",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 4,
+"value_text": "7.8%",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 6,
+"value_text": "16m",
+"pass": 1
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 7,
+"value_text": "10 bundled wallets",
+"pass": 0
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 3,
+"value_text": "0.4% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 4,
+"value_text": "4.9%",
+"pass": 1
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 5,
+"value_text": "liquidity unlocked",
+"pass": 0
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 3,
+"value_text": "dev sold",
+"pass": 0
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 4,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 5,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 6,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 7,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 1,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 2,
+"value_text": "Revoked",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 3,
+"value_text": "0.0% \u00b7 sold 0",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 4,
+"value_text": "8.9%",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 5,
+"value_text": "100% burned",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 6,
+"value_text": "43m",
+"pass": 1
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 7,
+"value_text": "7 bundled wallets",
+"pass": 0
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"layer": 8,
+"value_text": "not checked",
+"pass": null
+}
+],
+"scores": [
+{
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"score": 19,
+"pass": 0,
+"reason": "layer 7 Bundles: 7 bundled wallets"
+},
+{
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"score": 22,
+"pass": 0,
+"reason": "22"
+},
+{
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"score": 95,
+"pass": 0,
+"reason": "layer 7 Bundles: 8 bundled wallets"
+},
+{
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"score": 77,
+"pass": 0,
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"score": 87,
+"pass": 0,
+"reason": "layer 7 Bundles: 8 bundled wallets"
+},
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"score": 72,
+"pass": 1,
+"reason": null
+},
+{
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"score": 89,
+"pass": 0,
+"reason": "layer 7 Bundles: 11 bundled wallets"
+},
+{
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"score": 84,
+"pass": 0,
+"reason": "layer 7 Bundles: 22 bundled wallets"
+},
+{
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"score": 78,
+"pass": 0,
+"reason": "layer 7 Bundles: 20 bundled wallets"
+},
+{
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"score": 80,
+"pass": 0,
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"score": 95,
+"pass": 0,
+"reason": "layer 7 Bundles: 5 bundled wallets"
+},
+{
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"score": 79,
+"pass": 0,
+"reason": "layer 5 Liquidity: liquidity down 61%"
+},
+{
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"score": 88,
+"pass": 0,
+"reason": "layer 7 Bundles: 12 bundled wallets"
+},
+{
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"score": 85,
+"pass": 0,
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"score": 77,
+"pass": 1,
+"reason": null
+},
+{
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"score": 75,
+"pass": 0,
+"reason": "layer 7 Bundles: 11 bundled wallets"
+},
+{
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"score": 92,
+"pass": 0,
+"reason": "liq $0.0K (GeckoTerminal)"
+},
+{
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"score": 70,
+"pass": 1,
+"reason": null
+},
+{
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"score": 81,
+"pass": 0,
+"reason": "layer 7 Bundles: 18 bundled wallets"
+},
+{
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"score": 62,
+"pass": 0,
+"reason": "62"
+},
+{
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"score": 81,
+"pass": 0,
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"score": 73,
+"pass": 0,
+"reason": "layer 3 Dev wallet: dev sold"
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"score": 71,
+"pass": 1,
+"reason": null
+},
+{
+"mint": "ADgpuUbnksqz1k3CbBcmW2TV1n9e7eyRhekWox2cpump",
+"score": 84,
+"pass": 1,
+"reason": null
+},
+{
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"score": 74,
+"pass": 0,
+"reason": "layer 7 Bundles: insiders hold 22%"
+},
+{
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"score": 99,
+"pass": 0,
+"reason": "layer 3 Dev wallet: dev rugged 1 before"
+},
+{
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"score": 63,
+"pass": 0,
+"reason": "layer 7 Bundles: insiders hold 21%"
+},
+{
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"score": 72,
+"pass": 0,
+"reason": "layer 7 Bundles: insiders hold 21%"
+},
+{
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"score": 77,
+"pass": 0,
+"reason": "liq $2.8K (GeckoTerminal)"
+},
+{
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"score": 84,
+"pass": 0,
+"reason": "dev_sold_pregrad"
+},
+{
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"score": 98,
+"pass": 0,
+"reason": "layer 5 Liquidity: liquidity down 67%"
+},
+{
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"score": 88,
+"pass": 0,
+"reason": "layer 4 Top 10: top 10 hold 25%"
+},
+{
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"score": 66,
+"pass": 0,
+"reason": "dev_sold_pregrad"
+},
+{
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"score": 82,
+"pass": 0,
+"reason": "dev_sold_pregrad"
+},
+{
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"score": 91,
+"pass": 0,
+"reason": "layer 5 Liquidity: liquidity unlocked"
+},
+{
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"score": 47,
+"pass": 0,
+"reason": "layer 3 Dev wallet: dev sold"
+},
+{
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"score": 73,
+"pass": 0,
+"reason": "dev_sold_pregrad"
+}
+],
+"other_skips": [
+{
+"bot": "analyst",
+"mint": "Gu9u7pc4BPXS9kyGo3pz2kvTKteVkCoC6HZEERZppump",
+"reason": "layer 7 Bundles: 7 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "G9CScRrBVW5vMYWm3ounokiYLh2Ew3tWMbmxgY13pump",
+"reason": "22"
+},
+{
+"bot": "analyst",
+"mint": "HYfjNrnCEq9huXzqmVApxTBDNpp8Az4tFrgxTF7Rpump",
+"reason": "layer 7 Bundles: 8 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "8VcLB6pfw6QTgZYR1JuZtB5jpwhLmjxUqMR5j9vqpump",
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "HBGka5Cyfg2wbhA6bwPBpJ7wrNELXENUviHLdWwGpump",
+"reason": "layer 7 Bundles: 8 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "427E2wTecAscojz5WuMB6vcm9m4heQDnSArC38Yopump",
+"reason": "layer 7 Bundles: 11 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "BMmrW6CdQqjCoZphi9dSsv67MQC6nNzwxAE98u13pump",
+"reason": "layer 7 Bundles: 22 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "7KDemcNNpJxgWEBAMdGpAAejz6ecuyjCYGMVe3d9pump",
+"reason": "layer 7 Bundles: 20 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "F9brbkTusBijjrVWurxchgEJbaELaxAF8D8yBrn7pump",
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "5J7R3b8ijjbsUxhvNX3oZ3PXixwvQz8N6R8VW1C8P5Nm",
+"reason": "layer 7 Bundles: 5 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "5RQj34PmaSZLkAfVKGJqq5MPFJCyEPB62og2s7Kppump",
+"reason": "layer 5 Liquidity: liquidity down 61%"
+},
+{
+"bot": "analyst",
+"mint": "6Zexdtc4e5bgwXMg21hFYfTcce77grdHdVUB5Wz2pump",
+"reason": "layer 7 Bundles: 12 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "7Ttmp4xBtErMzxpR6AhuzJjDf7u3YGJtWm5ibPsqpump",
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "8KoMe1tH3hqMVsdDjiASwfCZzkvVt2e1L2Y7NEeypump",
+"reason": "layer 7 Bundles: 11 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "5xrT8y2KU2YwzipwCMNxxTc8KAGQd4wjtGTc2WyJJCMh",
+"reason": "liq $0.0K (GeckoTerminal)"
+},
+{
+"bot": "executor",
+"mint": "8oJtVqBUE4Ujx7v9uhckKfotzHTaVafaTUFapykypump",
+"reason": "crash -96%"
+},
+{
+"bot": "analyst",
+"mint": "8rjgC1GsBo4fwuXjq7Hy12SAFxgFxbtSJJSFBYkVpump",
+"reason": "layer 7 Bundles: 18 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "ACzDUEXiDMWS6K3jxMcEKQJzJpHPjenw38hiFBihpump",
+"reason": "62"
+},
+{
+"bot": "analyst",
+"mint": "cg3HaDWhAKFfj9aq79TWUBgmxfs4G7byQ7feaxnpump",
+"reason": "layer 7 Bundles: 10 bundled wallets"
+},
+{
+"bot": "analyst",
+"mint": "EomygbXHKGwb9bkCatVftQpCVgvBPmgAnMUuwusxpump",
+"reason": "layer 3 Dev wallet: dev sold"
+},
+{
+"bot": "analyst",
+"mint": "9ZYV6u8aGJSLQjSFTzceP4wpquVZSmCrPxSyABUopump",
+"reason": "layer 7 Bundles: insiders hold 22%"
+},
+{
+"bot": "analyst",
+"mint": "4CxjZyMNoF1p6eXHXHv1TWpS2X47CuUmLwtGe18spump",
+"reason": "layer 3 Dev wallet: dev rugged 1 before"
+},
+{
+"bot": "analyst",
+"mint": "7iximKkv64jVuAEN5nndhRd4sgzxrxBNWTpvmgBmpump",
+"reason": "layer 7 Bundles: insiders hold 21%"
+},
+{
+"bot": "analyst",
+"mint": "DCFiFuRwjwdSKcYKmuz47gcSNsjjtZ6Rh8KkLaVCpump",
+"reason": "layer 7 Bundles: insiders hold 21%"
+},
+{
+"bot": "analyst",
+"mint": "BSZzR22nTfhU3c1kd8eLCVrLoyuEqaYSkyQNSXoLpump",
+"reason": "liq $2.8K (GeckoTerminal)"
+},
+{
+"bot": "analyst",
+"mint": "2AtSf2HbAv6poFSFjeQBZ9L91LjwzZPAuNkgpb2Hpump",
+"reason": "dev_sold_pregrad"
+},
+{
+"bot": "analyst",
+"mint": "At5hmwDn4YgPDoic1UN7zMdTtCoiXJsMhnKaoazEpump",
+"reason": "layer 5 Liquidity: liquidity down 67%"
+},
+{
+"bot": "analyst",
+"mint": "Ejbu9xDBN3XuDiLj9A61sctiVzYocF3TpKojiBPvpump",
+"reason": "layer 4 Top 10: top 10 hold 25%"
+},
+{
+"bot": "analyst",
+"mint": "5Cs9HwrxQU9Z3XzkSovmGQSM58d3hb95vxCSci5ipump",
+"reason": "dev_sold_pregrad"
+},
+{
+"bot": "analyst",
+"mint": "jMhjZicmQSAJNoub4VEyJKqJxXzuyFCSKGgribxpump",
+"reason": "dev_sold_pregrad"
+},
+{
+"bot": "analyst",
+"mint": "EJEeWpvfviFyz1GQqSFHjXmvvXvUTkbjsRBWh1DLpump",
+"reason": "layer 5 Liquidity: liquidity unlocked"
+},
+{
+"bot": "analyst",
+"mint": "HrURiXYRBkK25NcPDeBFn88AUH2yPwtWyWCL5WXrdSGV",
+"reason": "layer 3 Dev wallet: dev sold"
+},
+{
+"bot": "analyst",
+"mint": "BFLRy1dMqALUz7WFoaXHXdZSJdqEJZnndD7yqz56pump",
+"reason": "dev_sold_pregrad"
+}
+],
+"orders": [
+{
+"id": 1,
+"side": "buy",
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"usd": 6.0,
+"pct": 6.0,
+"bot": "executor",
+"reason": "buy",
+"status": "done",
+"fill_usd": 6.0,
+"quote_text": null,
+"fee_text": "$0.12 fee (fees.py)",
+"error": null
+},
+{
+"id": 2,
+"side": "sell",
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"usd": null,
+"pct": 100.0,
+"bot": "risk",
+"reason": "stop",
+"status": "done",
+"fill_usd": 3.4548814355906856,
+"quote_text": "PAPER fill \u00b7 DexScreener $2.83e-05",
+"fee_text": "$0.10 fee (fees.py)",
+"error": "logged out"
+},
+{
+"id": 3,
+"side": "buy",
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"usd": 5.85,
+"pct": 6.002777839316226,
+"bot": "executor",
+"reason": "buy",
+"status": "done",
+"fill_usd": 5.85,
+"quote_text": null,
+"fee_text": "$0.12 fee (fees.py)",
+"error": null
+},
+{
+"id": 4,
+"side": "sell",
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"usd": null,
+"pct": 100.0,
+"bot": "risk",
+"reason": "stop",
+"status": "done",
+"fill_usd": 3.801269624573378,
+"quote_text": "PAPER fill \u00b7 DexScreener $2.592e-05",
+"fee_text": "$0.10 fee (fees.py)",
+"error": null
+},
+{
+"id": 5,
+"side": "buy",
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"usd": 5.72,
+"pct": 5.995420567799659,
+"bot": "executor",
+"reason": "buy",
+"status": "done",
+"fill_usd": 5.72,
+"quote_text": null,
+"fee_text": "$0.11 fee (fees.py)",
+"error": null
+},
+{
+"id": 6,
+"side": "sell",
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"usd": null,
+"pct": 50.0,
+"bot": "executor",
+"reason": "take profit",
+"status": "done",
+"fill_usd": 5.4944731383403305,
+"quote_text": "PAPER fill \u00b7 DexScreener $0.0001013",
+"fee_text": "$0.11 fee (fees.py) + $0.07 pool \u00b7 impact 0.05%",
+"error": null
+},
+{
+"id": 7,
+"side": "sell",
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"usd": null,
+"pct": 100.0,
+"bot": "risk",
+"reason": "trail",
+"status": "done",
+"fill_usd": 7.191725029922555,
+"quote_text": "PAPER fill \u00b7 DexScreener $0.0001326",
+"fee_text": "$0.15 fee (fees.py) + $0.09 pool \u00b7 impact 0.06%",
+"error": null
+}
+],
+"positions": [
+{
+"mint": "CS8vS3n7Ptc4NBGwt62LxxAeW7gpPigHVYhmKcS7pump",
+"entry_price": 4.681e-05,
+"size_usd": 6.0,
+"tokens": 0.0,
+"exit_price": 2.83e-05,
+"exit_reason": "stop",
+"pnl_usd": -2.5451185644093144,
+"fees_usd": 0.22
+},
+{
+"mint": "6StXSU7RvsbuwNG2gPw7nmu2UTVM3ZD2aewHA7fMpump",
+"entry_price": 3.809e-05,
+"size_usd": 5.85,
+"tokens": 0.0,
+"exit_price": 2.592e-05,
+"exit_reason": "stop",
+"pnl_usd": -2.0487303754266217,
+"fees_usd": 0.21700000000000003
+},
+{
+"mint": "4tPsVjDAqgDjb5TzGazEDMvM2GK2xDvCG2LxpX8opump",
+"entry_price": 4.998186728291848e-05,
+"size_usd": 5.72,
+"tokens": 0.0,
+"exit_price": 0.0001326,
+"exit_reason": "trail",
+"pnl_usd": 6.966198168262886,
+"fees_usd": 0.373302
+}
+]
+},
+"shadow": {
+"A": {
+"trades": 9,
+"wins": 4,
+"win_rate": 44.4,
+"usd_in": 54.0,
+"net_usd": -5.56,
+"net_pct": -10.3
+},
+"B": {
+"trades": 9,
+"wins": 6,
+"win_rate": 66.7,
+"usd_in": 54.0,
+"net_usd": -5.1,
+"net_pct": -9.44
+}
+},
+"collect": {
+"graduates": 84,
+"with_holders": 61,
+"with_bundle": 16,
+"marks": 667,
+"marks_60": 114
+},
+"text": "2026-11-28 \u00b7 PAPER \u00b7 cash $102.37 \u00b7 7 orders \u00b7 0 open\nshadow (log-only): A 9 trades win 44% in $54.00 net $-5.56 | B 9 trades win 67% in $54.00 net $-5.10\ncollect (log-only): 84 graduates logged \u00b7 holders 61 \u00b7 bundle/snipers 16 \u00b7 +60m outcomes 114"
+}

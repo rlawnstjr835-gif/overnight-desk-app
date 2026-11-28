@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Luna">
+<meta name="theme-color" content="#000000">
+<meta name="referrer" content="no-referrer">
+<title>Luna</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="stylesheet" href="app.css">
+</head>
+<body class="loading">
+<div id="offline" class="offline" hidden></div>
+<div id="example-tag" class="example-tag" hidden>Example data</div>
+
+<!-- first open: paste your desk link -->
+<section id="onboard" class="onboard" hidden>
+  <div class="ob-icon"></div>
+  <h1>Luna</h1>
+  <p class="sec">Paste your desk link</p>
+  <input id="ob-input" type="url" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="https://…#d=…">
+  <button id="ob-go" class="btn primary">Open desk</button>
+  <p id="ob-err" class="err" hidden>That link has no desk path (#d=…)</p>
+</section>
+
+<main id="app">
+  <!-- HOME -->
+  <section id="tab-home" class="tab on">
+    <header class="nav">
+      <button class="avatar" id="nav-avatar" aria-label="Account"><span>J</span></button>
+      <button class="nav-title" id="nav-title">Grok Bot <span class="chev">›</span></button>
+      <div class="nav-right">
+        <button class="icon" id="nav-search" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg></button>
+        <button class="icon bell" id="nav-bell" aria-label="Notifications"><svg viewBox="0 0 24 24"><path d="M6 16V11a6 6 0 1 1 12 0v5l1.5 2h-15z"/><path d="M10 20a2 2 0 0 0 4 0"/></svg><i class="dot" id="bell-dot" hidden></i></button>
+      </div>
+    </header>
+    <div id="search-box" class="search" hidden><input id="search-input" placeholder="Name, symbol or mint" autocomplete="off"><div id="search-results"></div></div>
+    <div class="hero">
+      <div class="bal-row"><div id="balance" class="odo num">–</div><span id="paper-badge" class="pill paper" hidden>PAPER</span></div>
+      <div class="sub-row">
+        <span id="today" class="today num"></span>
+        <span id="mult" class="pill mult num" hidden></span>
+        <span id="market" class="pill market" hidden></span>
+      </div>
+    </div>
+    <div class="chart-wrap sk">
+      <canvas id="chart"></canvas>
+      <div id="chart-marks" class="marks"></div>
+      <div id="chart-empty" class="chart-empty" hidden>Waiting for the first trade</div>
+    </div>
+    <div id="ranges" class="ranges">
+      <button class="range on" data-range="LIVE">LIVE</button><button class="range" data-range="1H">1H</button><button class="range" data-range="4H">4H</button><button class="range" data-range="1D">1D</button><button class="range" data-range="1W">1W</button><button class="range" data-range="ALL">ALL</button>
+    </div>
+    <div class="live card sk" id="live">
+      <div class="live-frame" id="live-frame">
+        <img id="live-a" alt=""><img id="live-b" alt="">
+        <div id="live-ph" class="live-ph">No frame yet</div>
+        <div class="live-tl"><i id="live-dot" class="ldot"></i><span id="live-label">Last frame</span></div>
+        <div class="live-tr" id="live-lane">Idle</div>
+      </div>
+      <div class="live-order" id="live-order" hidden></div>
+    </div>
+    <div class="sec-head"><h2 id="bots-running">Bots · 0 running</h2></div>
+    <div class="carousel" id="carousel"></div>
+    <div class="sec-head"><h2>Activity</h2><button class="link" data-goto="activity">See all</button></div>
+    <div class="list" id="home-activity"></div>
+    <div class="pad"></div>
+  </section>
+
+  <!-- BOTS -->
+  <section id="tab-bots" class="tab">
+    <header class="large"><h1>Bots</h1></header>
+    <div id="bots-list"></div>
+    <div class="pad"></div>
+  </section>
+
+  <!-- ACTIVITY -->
+  <section id="tab-activity" class="tab">
+    <header class="large"><h1>Activity</h1></header>
+    <div class="list" id="activity-list"></div>
+    <div class="pad"></div>
+  </section>
+
+  <!-- ACCOUNT -->
+  <section id="tab-account" class="tab">
+    <header class="large"><h1>Account</h1></header>
+    <div id="account"></div>
+    <div class="pad"></div>
+  </section>
+</main>
+
+<!-- pushed screens -->
+<section id="screen-coin" class="screen" hidden></section>
+<section id="screen-audit" class="screen" hidden></section>
+<section id="screen-viewer" class="viewer" hidden>
+  <button class="close" id="viewer-close" aria-label="Close">✕</button>
+  <div class="viewer-scroll" id="viewer-scroll"><img id="viewer-img" alt=""></div>
+  <a id="viewer-fomo" class="btn primary viewer-fomo" target="_blank" rel="noopener noreferrer" hidden>Open on FOMO</a>
+</section>
+<div id="sheet-bg" class="sheet-bg" hidden></div>
+<div id="sheet" class="sheet" hidden></div>
+<div id="toast" class="toast" hidden></div>
+
+<nav class="tabbar">
+  <button data-tab="home" class="on"><svg viewBox="0 0 24 24"><path d="M3 11l9-7 9 7v9a1 1 0 0 1-1 1h-5v-6h-6v6H4a1 1 0 0 1-1-1z"/></svg><span>Home</span></button>
+  <button data-tab="bots"><svg viewBox="0 0 24 24"><rect x="4" y="7" width="16" height="12" rx="3"/><path d="M12 3v4M9 12h.01M15 12h.01M9 16h6"/></svg><span>Bots</span></button>
+  <button data-tab="activity"><svg viewBox="0 0 24 24"><path d="M3 12h4l3-8 4 16 3-8h4"/></svg><span>Activity</span></button>
+  <button data-tab="account"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span>Account</span></button>
+</nav>
+<script src="chart.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
