@@ -1,0 +1,18 @@
+{
+ "mint": "7rUMBAXwQP4XszazSXiRxUiXY7tEaGtD3AZmA4oZpump",
+ "symbol": "TRUMP",
+ "u15": 7,
+ "u60": 9,
+ "big": {
+  "count": 0,
+  "handles": []
+ },
+ "shill": 0,
+ "ring_accounts": [],
+ "shill_note": "no accounts <30 days old found; all 9 are repeat callers/shill-style posters, none ≥10k followers",
+ "catalyst": null,
+ "catalyst_reason": "no news or big-account post found naming this coin",
+ "coinX": null,
+ "coinX_reason": "webhook coinX is null",
+ "note": "counts from X search of last 60 min (up to 25 results/query, may undercount)"
+}
